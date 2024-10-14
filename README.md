@@ -1,4 +1,4 @@
-## Hi, I’m Pablo Hidalgo
+## 👋 Hi, I’m Pablo Hidalgo
 
 🎓 Computer Science graduate and currently a master’s student. I am passionate about Artificial Intelligence, Cloud Computing, and Cybersecurity.
 
