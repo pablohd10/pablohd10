@@ -1,4 +1,23 @@
-## Hi there 👋
+## Hi, I’m Pablo Hidalgo
+
+🎓 Computer Science graduate and currently a master’s student. I am passionate about Artificial Intelligence, Cloud Computing, and Cybersecurity.
+
+### 🚀 About Me
+I am a technology enthusiast, always looking for ambitious and innovative projects that challenge me and allow me to learn. I love collaborating with others and bringing fresh ideas to a dynamic work environment.
+
+### 📬 Contact
+If you’d like to get in touch with me, feel free to email me at: <phidalgod10@gmail.com> ✉️
+
+### 🛠 Skills and Technologies
+Programming Languages: Python, Java, JavaScript
+Cloud Tools: AWS, Azure
+Cybersecurity Technologies: IAM, risk management
+Artificial Intelligence: Machine Learning, Deep Learning
+
+🎉 Thanks for visiting my profile!
+Feel free to explore my repositories and connect with me on social media. I’m excited to share my journey in the tech world with you!
+
+
 <!--
 **pablohd10/pablohd10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
