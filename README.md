@@ -1,18 +1,22 @@
-## 👋 Hi, I’m Pablo Hidalgo
+# 👋 Hi, I'm Pablo Hidalgo
 
 🎓 Computer Science graduate and currently a master’s student. I am passionate about Artificial Intelligence, Cloud Computing, and Cybersecurity.
 
 ### 🚀 About Me
 I am a technology enthusiast, always looking for ambitious and innovative projects that challenge me and allow me to learn. I love collaborating with others and bringing fresh ideas to a dynamic work environment.
 
-### 📬 Contact
+#### 📬 Contact
 If you’d like to get in touch with me, feel free to email me at: <phidalgod10@gmail.com> ✉️
 
-### 🛠 Skills and Technologies
-Programming Languages: Python, Java, JavaScript
-Cloud Tools: AWS, Azure
-Cybersecurity Technologies: IAM, risk management
-Artificial Intelligence: Machine Learning, Deep Learning
+If you'd like to visit my LinkedIn profile, click below:
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/pablo-hidalgo-delgado/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+<br>
 
 🎉 Thanks for visiting my profile!
 Feel free to explore my repositories and connect with me on social media. I’m excited to share my journey in the tech world with you!
@@ -42,12 +46,3 @@ Here are some ideas to get you started:
 ###
 -->
 
-
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/pablo-hidalgo-delgado/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
