@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pablo Hidalgo
 
-🎓 Computer Science graduate and currently a master’s student. I am passionate about Artificial Intelligence, Cloud Computing, and Cybersecurity.
+🎓 Computer Science graduate and currently a master’s student. I am passionate about Artificial Intelligence, Infrastructure, DevOps, Cloud Architecture, and Cybersecurity.
 
 ### 🚀 About Me
 I am a technology enthusiast, always looking for ambitious and innovative projects that challenge me and allow me to learn. I love collaborating with others and bringing fresh ideas to a dynamic work environment.
