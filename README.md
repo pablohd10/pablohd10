@@ -5,7 +5,7 @@
 ### 🚀 About Me
 I am a technology enthusiast, always looking for ambitious and innovative projects that challenge me and allow me to learn. I love collaborating with others and bringing fresh ideas to a dynamic work environment.
 
-#### 📬 Contact
+### 📬 Contact
 If you’d like to get in touch with me, feel free to email me at: <phidalgod10@gmail.com> ✉️
 
 If you'd like to visit my LinkedIn profile, click below:
