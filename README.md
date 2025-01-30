@@ -21,7 +21,7 @@ If you'd like to visit my LinkedIn profile, click below:
 <br>
 
 🎉 Thanks for visiting my profile!
-Feel free to explore my repositories and connect with me on social media. I’m excited to share my journey in the tech world with you!
+Feel free to explore my repositories and connect with me on social media!
 
 
 <!--
