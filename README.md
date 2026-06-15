@@ -2,6 +2,8 @@
 
 🎓 Computer Science graduate and currently a master’s student. I am passionate about Artificial Intelligence, Data Science, Infrastructure, DevOps, Cloud Architecture, Software Architecture and Backend development.
 
+Software Engineer at @datadog
+
 ### 🚀 About Me
 I am a technology enthusiast, always looking for ambitious and innovative projects that challenge me and allow me to learn. I love collaborating with others and bringing fresh ideas to a dynamic work environment.
 
